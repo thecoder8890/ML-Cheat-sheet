@@ -22,5 +22,5 @@ This repository contains a collection of machine learning cheat sheets and examp
 *   [Unsupervised-Clustering](./Unsupervised-Clustering/) - Algorithms and examples for unsupervised data clustering. 🌀
     *   [PCA-(Principal-Component-Analysis)](./Unsupervised-Clustering/PCA-(Principal-Component-Analysis)/) - Notebooks explaining Principal Component Analysis. 🎯
     *   [UMAP-(Uniform-Manifold-Approximation-and-Projection)](./Unsupervised-Clustering/UMAP-(Uniform-Manifold-Approximation-and-Projection)/) - Resources for UMAP dimensionality reduction. 🗺️
-*   [Voting-Ensemble](./Voting-Ensemble/) - Examples of different voting ensemble methods in machine learning.🗳️
+*   [Voting-Ensemble](./Voting-Ensemble/) - Examples of different voting ensemble methods in machine learning. 🗳️
 *   [XGBoost](./XGBoost/) - Notebooks and data related to XGBoost models. 🚀
