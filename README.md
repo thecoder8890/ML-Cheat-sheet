@@ -19,7 +19,7 @@ This repository contains a collection of machine learning cheat sheets and examp
 *   [Support-Vector-Machine](./Support-Vector-Machine/) - Examples related to Support Vector Machine (SVM) models. 🤖
 *   [Tensors](./Tensors/) - Introduction and basics of using Tensors, especially with PyTorch. 💡
 *   [Understanding-Data](./Understanding-Data/) - Focuses on initial data exploration and descriptive statistics. 🧐
-*   [Unsupervised-Clustering](./Unsupervised-Clustering/) - Algorithms and examples for unsupervised data clustering. Clustering methods like PCA and UMAP. 🌀
+*   [Unsupervised-Clustering](./Unsupervised-Clustering/) - Algorithms and examples for unsupervised data clustering. 🌀
     *   [PCA-(Principal-Component-Analysis)](./Unsupervised-Clustering/PCA-(Principal-Component-Analysis)/) - Notebooks explaining Principal Component Analysis. 🎯
     *   [UMAP-(Uniform-Manifold-Approximation-and-Projection)](./Unsupervised-Clustering/UMAP-(Uniform-Manifold-Approximation-and-Projection)/) - Resources for UMAP dimensionality reduction. 🗺️
 *   [Voting-Ensemble](./Voting-Ensemble/) - Examples of different voting ensemble methods in machine learning.🗳️
